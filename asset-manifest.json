@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sitisland/monsters.git/static/css/main.9c353ef1.css",
-    "main.js": "/sitisland/monsters.git/static/js/main.77e4de47.js",
-    "static/js/787.c2e63a61.chunk.js": "/sitisland/monsters.git/static/js/787.c2e63a61.chunk.js",
-    "index.html": "/sitisland/monsters.git/index.html",
-    "main.9c353ef1.css.map": "/sitisland/monsters.git/static/css/main.9c353ef1.css.map",
-    "main.77e4de47.js.map": "/sitisland/monsters.git/static/js/main.77e4de47.js.map",
-    "787.c2e63a61.chunk.js.map": "/sitisland/monsters.git/static/js/787.c2e63a61.chunk.js.map"
+    "main.css": "/monsters/static/css/main.9c353ef1.css",
+    "main.js": "/monsters/static/js/main.69c46a8f.js",
+    "static/js/787.c2e63a61.chunk.js": "/monsters/static/js/787.c2e63a61.chunk.js",
+    "index.html": "/monsters/index.html",
+    "main.9c353ef1.css.map": "/monsters/static/css/main.9c353ef1.css.map",
+    "main.69c46a8f.js.map": "/monsters/static/js/main.69c46a8f.js.map",
+    "787.c2e63a61.chunk.js.map": "/monsters/static/js/787.c2e63a61.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9c353ef1.css",
-    "static/js/main.77e4de47.js"
+    "static/js/main.69c46a8f.js"
   ]
 }
